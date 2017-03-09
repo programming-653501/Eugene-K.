@@ -1,0 +1,4 @@
+﻿  Lab3.2.11.cpp
+d:\projects\c\labs\lab3.2.11\lab3.2.11\lab3.2.11.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab3.2.11.vcxproj -> D:\projects\C\Labs\Lab3.2.11\Debug\Lab3.2.11.exe
+  Lab3.2.11.vcxproj -> D:\projects\C\Labs\Lab3.2.11\Debug\Lab3.2.11.pdb (Full PDB)
